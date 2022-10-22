@@ -1,1 +1,5 @@
 # Dummy task file used to import the role without running any tasks
+- name: supress warning
+  debug:
+    msg: Dokku role running in "debug mode"
+  tags: debug
