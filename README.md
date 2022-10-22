@@ -37,7 +37,6 @@ Supported Platforms
 
 ## Dependencies
 
-- geerlingguy.docker ansible role
 - nginxinc.nginx ansible role
 - Dokku (for library usage)
 
